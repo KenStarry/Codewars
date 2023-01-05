@@ -26,5 +26,9 @@ Each positive becomes negatives, and the negatives become positives.
 `Convert a Number to a String!
 ` - We need a function that can transform a number (integer) into a string.
 
+### Kata 6
+
+`Enumerable Magic - Does My List Include This?
+` - Create a method that accepts a list and an item, and returns true if the item belongs to the list, otherwise false.
 
 
