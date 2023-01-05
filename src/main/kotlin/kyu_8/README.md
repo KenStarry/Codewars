@@ -16,3 +16,10 @@ The number will always be a positive integer greater than 0.
 
 `MakeUpperCase` - Write a function which converts the input string to uppercase.
 
+### Challenge 4
+
+`Invert values` - Given a set of numbers, return the additive inverse of each. 
+Each positive becomes negatives, and the negatives become positives.
+
+
+
