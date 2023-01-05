@@ -18,7 +18,7 @@ The number will always be a positive integer greater than 0.
 
 ### Kata 4 - `solved`
 
-`Invert values` - Given a set of numbers, return the additive inverse of each. 
+`Invert values` - Given a set of numbers, return the additive inverse of each.
 Each positive becomes negatives, and the negatives become positives.
 
 ### Kata 5 - `solved`
@@ -31,7 +31,16 @@ Each positive becomes negatives, and the negatives become positives.
 `Enumerable Magic - Does My List Include This?
 ` - Create a method that accepts a list and an item, and returns true if the item belongs to the list, otherwise false.
 
-### Kata 7
+### Kata 7 - `solved`
+
 `Find the smallest integer in the array
-`Given an array of integers your solution should find the smallest integer.
+` - Given an array of integers your solution should find the smallest integer.
+
+### Kata 8 - `solved`
+
+`Beginner - Reduce but Grow` -
+Given a non-empty array of integers, return the result of multiplying the values together in order.
+
+
+
 
