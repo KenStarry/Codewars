@@ -41,6 +41,11 @@ Each positive becomes negatives, and the negatives become positives.
 `Beginner - Reduce but Grow` -
 Given a non-empty array of integers, return the result of multiplying the values together in order.
 
+### Kata 9 - `solved`
 
+`String repeat` -
+Write a function that accepts an integer n and a string s as parameters, 
+and returns a string of s repeated exactly n
+times.
 
 
