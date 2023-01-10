@@ -36,11 +36,16 @@ Each positive becomes negatives, and the negatives become positives.
 `Find the smallest integer in the array
 ` - Given an array of integers your solution should find the smallest integer.
 
-### Kata 8 - ``
+### Kata 8 - `solved`
 
 `Beginner - Reduce but Grow` -
 Given a non-empty array of integers, return the result of multiplying the values together in order.
 
+### Kata 9 - `solved`
 
+`String repeat` -
+Write a function that accepts an integer n and a string s as parameters, 
+and returns a string of s repeated exactly n
+times.
 
 
